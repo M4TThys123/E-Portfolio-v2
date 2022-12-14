@@ -43,6 +43,13 @@ footer{
     background-color: #242424;
 }
 
+.row {
+  width: 100%;
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 0 12px;
+}
+
 .footer__row{
     padding: 8% 0;
     display: flex;

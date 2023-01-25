@@ -27,7 +27,7 @@
         >Email</a
       >
       <a
-        href="./assets/extra/Example Resume.pdf"
+        href="/"
         target="_blank"
         class="footer__social--link link__hover-effect link__hover-effect--white"
         >CV</a

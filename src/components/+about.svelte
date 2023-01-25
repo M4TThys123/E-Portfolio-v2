@@ -40,7 +40,7 @@
             target="_blank"><i class="bx bx-envelope" /></a
           >
           <a
-            href="images/extra/Example Resume.pdf"
+            href="/"
             class="about-me__link"
             target="_blank"><i class="bx bxs-file-pdf" /></a
           >

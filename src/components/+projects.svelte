@@ -8,7 +8,7 @@
       <ul class="project__list">
         <li class="project">
           <div class="project__wrapper">
-            <img src="./assets/fdnd.png" class="project__img" alt="" />
+            <img src="./images/fdnd.png" class="project__img" alt="" />
             <div class="project__description">
               <h3 class="project__description--title">
                 GitHub Issue feacher for FDND
@@ -41,7 +41,7 @@
         <li class="project">
           <div class="project__wrapper">
             <img
-              src="./assets/visite-kaartje.png"
+              src="./images/visite-kaartje.png"
               class="project__img"
               alt=""
             />
@@ -74,7 +74,7 @@
         </li>
         <li class="project">
           <div class="project__wrapper">
-            <img src="./assets/beyco.png" class="project__img" alt="" />
+            <img src="./images/beyco.png" class="project__img" alt="" />
             <div class="project__description">
               <h3 class="project__description--title">Coffee page for Beyco</h3>
               <h4 class="project__description--sub-title">

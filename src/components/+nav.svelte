@@ -2,7 +2,7 @@
     <div class="personal__logo">Matthijs Blauw</div>
     <ul class="nav__link--list">
       <li>
-        <a href="#languages" class="nav__link--anchor link__hover-effect link__hover-effect--black">Technologie</a>
+        <a href="/" class="nav__link--anchor link__hover-effect link__hover-effect--black">Technologie</a>
       </li>
       <li>
         <a href="#projects" class="nav__link--anchor link__hover-effect link__hover-effect--black">Projecten</a>
